@@ -1,0 +1,4348 @@
+{
+  "Version": 1,
+  "Hash": "lu5yNPawtvtIMnqyQ2TOqHNdExJZDfpJF2uCRbs3a3o=",
+  "Source": "EDgecut",
+  "BasePath": "_content/EDgecut",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EDgecut\\wwwroot",
+      "Source": "EDgecut",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\bootstrap.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0anlk9jj4q",
+      "Integrity": "6E4HsDZyFZzkF8mnVbXPreUNyjjPXc1HMAjkDZr9vko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\font-awesome.min.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/font-awesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rf9f4pws8w",
+      "Integrity": "eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\responsive.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm318i6jsp",
+      "Integrity": "mHiGjlG/+8gRXpazBwoDPs3b6qHtsOkmCEKVrwNPsvM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/slick#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmzakapvcy",
+      "Integrity": "3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\slick.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick-theme.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/slick-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qnvhv7zpqw",
+      "Integrity": "etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\slick-theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t1e1jl3wcd",
+      "Integrity": "YZTcdM/Yms8CS5gRyRg/I4pUIvGctHdaCGpwAeCQe3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css.map",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c34jpdnnei",
+      "Integrity": "iCfvqKJxG/27exid1JU1/4d4Fv3JA/NXnIhBRpghKL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.scss",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7a2zegc972",
+      "Integrity": "sfsB1xoN+8na6TukULYhSqLDwIe++52Y8iJR4QGBAi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "fonts/octin_sports_rg#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w7lunnmo9l",
+      "Integrity": "7FkWfXOy95B/Oiz2O6uevhw0IaB5DnUbXc1JUzm9KgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/about-img#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sme13chwjg",
+      "Integrity": "rFw3knxmE3Gh4qUxzffcm4cQe1KJQG4Fu+InTt6gCgM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/about-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvo25sapo8",
+      "Integrity": "kSCRGG2LYb25766TnvBnSMaItGrByC6d6tTliEREw20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b1.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qs10ta10gd",
+      "Integrity": "5kGLSV2BxPy4+ZrTRFCIc+b/OEDh6gr7pYE8GE6PqAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b2.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tk9ppjs3zs",
+      "Integrity": "Q55PeGBLKV2AHgiyAru+7VeQQLh3Cjn9v7jfxgVLFf0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b3.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htqx5n3vdl",
+      "Integrity": "+yjri8wVRw26yEPiMs53+M/GFH2K9p7MQWtaNcFICXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img1.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/blog-img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rmwi3cd5ai",
+      "Integrity": "TecIVBzT1tWcziLaT0sX30+R/IVktsW1rBhgKAREvco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\blog-img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img2.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/blog-img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0cvl2owro",
+      "Integrity": "X7S9TDWMAsKtwsnIphVKDNLkp1W4Buuu1f4XhnSeWt0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\blog-img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\client.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/client#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5rwrshjsgi",
+      "Integrity": "kY57kY4ud0IW06bcjKtBHL+6Bht5mY6aUM4dtsvyHYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\decoration-img.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/decoration-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ez4pt8tcym",
+      "Integrity": "hu3nbUouWLDmkby3b/5erRb+p2TXI/wD3LIW8vdALDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\decoration-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f1.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y4ynxftg03",
+      "Integrity": "bsZsa6/BJJT+KBGeCYW6bFy9S1DCAgc7NRSd1mkOUXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f2.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9rmd8gkdw",
+      "Integrity": "iIC9+UuakpMOZrrA3gxCBqecvtJhWb0haEYk95ZDfy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f3.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ssth104ki",
+      "Integrity": "8Iv4GMNlHE09intp61sQr5XkHMGwpGcM+C1Aak6MWC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f4.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "memp9svhtf",
+      "Integrity": "rgZhTKWaANNFbLBXnPAfx2Z8vsjDCAkDthgeVLjE4ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f4.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f5.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctzy9faf4o",
+      "Integrity": "MHEAhb005PuU3YwhnfoYbKGxGr10Vb7b/rzH9FNM5EE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f5.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f6.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/f6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ojhbifgs3r",
+      "Integrity": "lBtU/t2SMTsa1bbpOyYtJDhIV8GLrf+hgVaNuVasJaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f6.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\fevicon.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/fevicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9g6p1fj8ib",
+      "Integrity": "6VkZs/3ZkmlMWucwK0YYWoCQCDJCmKwy6eNl/mATb8U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fevicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\menu.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/menu#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a22xb6n925",
+      "Integrity": "svthRe5uKgAzvPIQbzfZr1OWF1d3AVM+AafdiHfSKOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\menu.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\offer-img.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/offer-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aqjz64wd7u",
+      "Integrity": "ouRHf5ValANYxXSNkMHY30Eb/P9TVxIuz24Ye/EkwXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\offer-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\search-icon.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/search-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccgks64ek3",
+      "Integrity": "RDwAMJVasam8li0DxhROYqslzHE1yBwZFgA6ER08PVs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\search-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jisaz9wy9n",
+      "Integrity": "JQrs8xYpwz7Gp1oAnM3UnkFSVuY+dUQopsajCpGzXFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg2.jpg",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-bg2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uurhqmeiva",
+      "Integrity": "uobUWaXCY+jW6JAx1mxrq2kOO5QId2zmEzIHiUU0RGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-bg2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nxof9bfe99",
+      "Integrity": "Ba/y60AjT5P3mptW8AaPsIU7vkWiOvdgt1s2I5JaQOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img1.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-img1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hmnqrpor8",
+      "Integrity": "hgcELg6cxs47LvO7WD+64Fu/xjq6TJZgbWEk/6C29eg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-img1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img2.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-img2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7tgmf1v429",
+      "Integrity": "mwGtEibsRvo17gjsQ1LceJgXGwHcBiaBJT1bDsLWESk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-img2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img3.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/slider-img3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1islf5g6n2",
+      "Integrity": "iaaaOLdGZmEg17xp8b31aVRiibhwh7s08c6A673G7rE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-img3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\user.png",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "images/user#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2bjc1dpl0k",
+      "Integrity": "Qk7v9kGx0irTVfMsoNtk7QDhJhzpEF9w7iQ9TNBoF6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\bootstrap.js",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m4yu6ktm9b",
+      "Integrity": "uhEoQRq4wXODUim66QAmMzkqYtJRNsYSJnmPLVENdm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\custom.js",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6jnv846pd",
+      "Integrity": "KuCwq6QvRTnPJa2qVfwUVqskdBbcXg5tLCoLh4x0qJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6rpaas0a0",
+      "Integrity": "KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\slick.min.js",
+      "SourceId": "EDgecut",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\",
+      "BasePath": "_content/EDgecut",
+      "RelativePath": "js/slick.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vxybdbzmv",
+      "Integrity": "DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.0anlk9jj4q.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6E4HsDZyFZzkF8mnVbXPreUNyjjPXc1HMAjkDZr9vko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0anlk9jj4q"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6E4HsDZyFZzkF8mnVbXPreUNyjjPXc1HMAjkDZr9vko="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6E4HsDZyFZzkF8mnVbXPreUNyjjPXc1HMAjkDZr9vko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6E4HsDZyFZzkF8mnVbXPreUNyjjPXc1HMAjkDZr9vko="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.rf9f4pws8w.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/font-awesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mHiGjlG/+8gRXpazBwoDPs3b6qHtsOkmCEKVrwNPsvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mHiGjlG/+8gRXpazBwoDPs3b6qHtsOkmCEKVrwNPsvM="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.gm318i6jsp.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mHiGjlG/+8gRXpazBwoDPs3b6qHtsOkmCEKVrwNPsvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm318i6jsp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mHiGjlG/+8gRXpazBwoDPs3b6qHtsOkmCEKVrwNPsvM="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick.mmzakapvcy.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmzakapvcy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick-theme.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick-theme.qnvhv7zpqw.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\slick-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qnvhv7zpqw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slick-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.7a2zegc972.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfsB1xoN+8na6TukULYhSqLDwIe++52Y8iJR4QGBAi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7a2zegc972"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfsB1xoN+8na6TukULYhSqLDwIe++52Y8iJR4QGBAi8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YZTcdM/Yms8CS5gRyRg/I4pUIvGctHdaCGpwAeCQe3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YZTcdM/Yms8CS5gRyRg/I4pUIvGctHdaCGpwAeCQe3A="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.c34jpdnnei.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCfvqKJxG/27exid1JU1/4d4Fv3JA/NXnIhBRpghKL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c34jpdnnei"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCfvqKJxG/27exid1JU1/4d4Fv3JA/NXnIhBRpghKL4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCfvqKJxG/27exid1JU1/4d4Fv3JA/NXnIhBRpghKL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCfvqKJxG/27exid1JU1/4d4Fv3JA/NXnIhBRpghKL4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfsB1xoN+8na6TukULYhSqLDwIe++52Y8iJR4QGBAi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfsB1xoN+8na6TukULYhSqLDwIe++52Y8iJR4QGBAi8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.t1e1jl3wcd.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YZTcdM/Yms8CS5gRyRg/I4pUIvGctHdaCGpwAeCQe3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1e1jl3wcd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YZTcdM/Yms8CS5gRyRg/I4pUIvGctHdaCGpwAeCQe3A="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.eyrbpue749.woff",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.yex6mt8az7.ttf",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/octin_sports_rg.ttf",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FkWfXOy95B/Oiz2O6uevhw0IaB5DnUbXc1JUzm9KgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FkWfXOy95B/Oiz2O6uevhw0IaB5DnUbXc1JUzm9KgU="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/octin_sports_rg.w7lunnmo9l.ttf",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FkWfXOy95B/Oiz2O6uevhw0IaB5DnUbXc1JUzm9KgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7lunnmo9l"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/octin_sports_rg.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FkWfXOy95B/Oiz2O6uevhw0IaB5DnUbXc1JUzm9KgU="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFw3knxmE3Gh4qUxzffcm4cQe1KJQG4Fu+InTt6gCgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFw3knxmE3Gh4qUxzffcm4cQe1KJQG4Fu+InTt6gCgM="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.jvo25sapo8.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSCRGG2LYb25766TnvBnSMaItGrByC6d6tTliEREw20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvo25sapo8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSCRGG2LYb25766TnvBnSMaItGrByC6d6tTliEREw20="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSCRGG2LYb25766TnvBnSMaItGrByC6d6tTliEREw20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSCRGG2LYb25766TnvBnSMaItGrByC6d6tTliEREw20="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.sme13chwjg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\about-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFw3knxmE3Gh4qUxzffcm4cQe1KJQG4Fu+InTt6gCgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sme13chwjg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about-img.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFw3knxmE3Gh4qUxzffcm4cQe1KJQG4Fu+InTt6gCgM="
+        }
+      ]
+    },
+    {
+      "Route": "images/b1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5kGLSV2BxPy4+ZrTRFCIc+b/OEDh6gr7pYE8GE6PqAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5kGLSV2BxPy4+ZrTRFCIc+b/OEDh6gr7pYE8GE6PqAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/b1.qs10ta10gd.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5kGLSV2BxPy4+ZrTRFCIc+b/OEDh6gr7pYE8GE6PqAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qs10ta10gd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5kGLSV2BxPy4+ZrTRFCIc+b/OEDh6gr7pYE8GE6PqAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/b2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q55PeGBLKV2AHgiyAru+7VeQQLh3Cjn9v7jfxgVLFf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q55PeGBLKV2AHgiyAru+7VeQQLh3Cjn9v7jfxgVLFf0="
+        }
+      ]
+    },
+    {
+      "Route": "images/b2.tk9ppjs3zs.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q55PeGBLKV2AHgiyAru+7VeQQLh3Cjn9v7jfxgVLFf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tk9ppjs3zs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q55PeGBLKV2AHgiyAru+7VeQQLh3Cjn9v7jfxgVLFf0="
+        }
+      ]
+    },
+    {
+      "Route": "images/b3.htqx5n3vdl.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+yjri8wVRw26yEPiMs53+M/GFH2K9p7MQWtaNcFICXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htqx5n3vdl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+yjri8wVRw26yEPiMs53+M/GFH2K9p7MQWtaNcFICXY="
+        }
+      ]
+    },
+    {
+      "Route": "images/b3.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+yjri8wVRw26yEPiMs53+M/GFH2K9p7MQWtaNcFICXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+yjri8wVRw26yEPiMs53+M/GFH2K9p7MQWtaNcFICXY="
+        }
+      ]
+    },
+    {
+      "Route": "images/blog-img1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TecIVBzT1tWcziLaT0sX30+R/IVktsW1rBhgKAREvco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TecIVBzT1tWcziLaT0sX30+R/IVktsW1rBhgKAREvco="
+        }
+      ]
+    },
+    {
+      "Route": "images/blog-img1.rmwi3cd5ai.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TecIVBzT1tWcziLaT0sX30+R/IVktsW1rBhgKAREvco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmwi3cd5ai"
+        },
+        {
+          "Name": "label",
+          "Value": "images/blog-img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TecIVBzT1tWcziLaT0sX30+R/IVktsW1rBhgKAREvco="
+        }
+      ]
+    },
+    {
+      "Route": "images/blog-img2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7S9TDWMAsKtwsnIphVKDNLkp1W4Buuu1f4XhnSeWt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X7S9TDWMAsKtwsnIphVKDNLkp1W4Buuu1f4XhnSeWt0="
+        }
+      ]
+    },
+    {
+      "Route": "images/blog-img2.x0cvl2owro.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\blog-img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7S9TDWMAsKtwsnIphVKDNLkp1W4Buuu1f4XhnSeWt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0cvl2owro"
+        },
+        {
+          "Name": "label",
+          "Value": "images/blog-img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X7S9TDWMAsKtwsnIphVKDNLkp1W4Buuu1f4XhnSeWt0="
+        }
+      ]
+    },
+    {
+      "Route": "images/client.5rwrshjsgi.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\client.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY57kY4ud0IW06bcjKtBHL+6Bht5mY6aUM4dtsvyHYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5rwrshjsgi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY57kY4ud0IW06bcjKtBHL+6Bht5mY6aUM4dtsvyHYg="
+        }
+      ]
+    },
+    {
+      "Route": "images/client.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\client.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY57kY4ud0IW06bcjKtBHL+6Bht5mY6aUM4dtsvyHYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY57kY4ud0IW06bcjKtBHL+6Bht5mY6aUM4dtsvyHYg="
+        }
+      ]
+    },
+    {
+      "Route": "images/decoration-img.ez4pt8tcym.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\decoration-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu3nbUouWLDmkby3b/5erRb+p2TXI/wD3LIW8vdALDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ez4pt8tcym"
+        },
+        {
+          "Name": "label",
+          "Value": "images/decoration-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu3nbUouWLDmkby3b/5erRb+p2TXI/wD3LIW8vdALDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/decoration-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\decoration-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu3nbUouWLDmkby3b/5erRb+p2TXI/wD3LIW8vdALDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu3nbUouWLDmkby3b/5erRb+p2TXI/wD3LIW8vdALDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bsZsa6/BJJT+KBGeCYW6bFy9S1DCAgc7NRSd1mkOUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bsZsa6/BJJT+KBGeCYW6bFy9S1DCAgc7NRSd1mkOUXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.y4ynxftg03.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bsZsa6/BJJT+KBGeCYW6bFy9S1DCAgc7NRSd1mkOUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y4ynxftg03"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bsZsa6/BJJT+KBGeCYW6bFy9S1DCAgc7NRSd1mkOUXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.k9rmd8gkdw.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIC9+UuakpMOZrrA3gxCBqecvtJhWb0haEYk95ZDfy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9rmd8gkdw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIC9+UuakpMOZrrA3gxCBqecvtJhWb0haEYk95ZDfy0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIC9+UuakpMOZrrA3gxCBqecvtJhWb0haEYk95ZDfy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIC9+UuakpMOZrrA3gxCBqecvtJhWb0haEYk95ZDfy0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.0ssth104ki.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Iv4GMNlHE09intp61sQr5XkHMGwpGcM+C1Aak6MWC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ssth104ki"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Iv4GMNlHE09intp61sQr5XkHMGwpGcM+C1Aak6MWC4="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Iv4GMNlHE09intp61sQr5XkHMGwpGcM+C1Aak6MWC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Iv4GMNlHE09intp61sQr5XkHMGwpGcM+C1Aak6MWC4="
+        }
+      ]
+    },
+    {
+      "Route": "images/f4.memp9svhtf.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rgZhTKWaANNFbLBXnPAfx2Z8vsjDCAkDthgeVLjE4ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "memp9svhtf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rgZhTKWaANNFbLBXnPAfx2Z8vsjDCAkDthgeVLjE4ms="
+        }
+      ]
+    },
+    {
+      "Route": "images/f4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rgZhTKWaANNFbLBXnPAfx2Z8vsjDCAkDthgeVLjE4ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rgZhTKWaANNFbLBXnPAfx2Z8vsjDCAkDthgeVLjE4ms="
+        }
+      ]
+    },
+    {
+      "Route": "images/f5.ctzy9faf4o.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHEAhb005PuU3YwhnfoYbKGxGr10Vb7b/rzH9FNM5EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctzy9faf4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHEAhb005PuU3YwhnfoYbKGxGr10Vb7b/rzH9FNM5EE="
+        }
+      ]
+    },
+    {
+      "Route": "images/f5.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHEAhb005PuU3YwhnfoYbKGxGr10Vb7b/rzH9FNM5EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHEAhb005PuU3YwhnfoYbKGxGr10Vb7b/rzH9FNM5EE="
+        }
+      ]
+    },
+    {
+      "Route": "images/f6.ojhbifgs3r.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBtU/t2SMTsa1bbpOyYtJDhIV8GLrf+hgVaNuVasJaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojhbifgs3r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBtU/t2SMTsa1bbpOyYtJDhIV8GLrf+hgVaNuVasJaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/f6.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBtU/t2SMTsa1bbpOyYtJDhIV8GLrf+hgVaNuVasJaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBtU/t2SMTsa1bbpOyYtJDhIV8GLrf+hgVaNuVasJaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/fevicon.9g6p1fj8ib.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\fevicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6VkZs/3ZkmlMWucwK0YYWoCQCDJCmKwy6eNl/mATb8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9g6p1fj8ib"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fevicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6VkZs/3ZkmlMWucwK0YYWoCQCDJCmKwy6eNl/mATb8U="
+        }
+      ]
+    },
+    {
+      "Route": "images/fevicon.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\fevicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6VkZs/3ZkmlMWucwK0YYWoCQCDJCmKwy6eNl/mATb8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6VkZs/3ZkmlMWucwK0YYWoCQCDJCmKwy6eNl/mATb8U="
+        }
+      ]
+    },
+    {
+      "Route": "images/menu.a22xb6n925.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\menu.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"svthRe5uKgAzvPIQbzfZr1OWF1d3AVM+AafdiHfSKOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a22xb6n925"
+        },
+        {
+          "Name": "label",
+          "Value": "images/menu.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-svthRe5uKgAzvPIQbzfZr1OWF1d3AVM+AafdiHfSKOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/menu.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\menu.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"svthRe5uKgAzvPIQbzfZr1OWF1d3AVM+AafdiHfSKOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-svthRe5uKgAzvPIQbzfZr1OWF1d3AVM+AafdiHfSKOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/offer-img.aqjz64wd7u.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\offer-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ouRHf5ValANYxXSNkMHY30Eb/P9TVxIuz24Ye/EkwXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aqjz64wd7u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/offer-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouRHf5ValANYxXSNkMHY30Eb/P9TVxIuz24Ye/EkwXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/offer-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\offer-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ouRHf5ValANYxXSNkMHY30Eb/P9TVxIuz24Ye/EkwXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouRHf5ValANYxXSNkMHY30Eb/P9TVxIuz24Ye/EkwXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/search-icon.ccgks64ek3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\search-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RDwAMJVasam8li0DxhROYqslzHE1yBwZFgA6ER08PVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccgks64ek3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/search-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RDwAMJVasam8li0DxhROYqslzHE1yBwZFgA6ER08PVs="
+        }
+      ]
+    },
+    {
+      "Route": "images/search-icon.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\search-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RDwAMJVasam8li0DxhROYqslzHE1yBwZFgA6ER08PVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RDwAMJVasam8li0DxhROYqslzHE1yBwZFgA6ER08PVs="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-bg.jisaz9wy9n.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQrs8xYpwz7Gp1oAnM3UnkFSVuY+dUQopsajCpGzXFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jisaz9wy9n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQrs8xYpwz7Gp1oAnM3UnkFSVuY+dUQopsajCpGzXFE="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQrs8xYpwz7Gp1oAnM3UnkFSVuY+dUQopsajCpGzXFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQrs8xYpwz7Gp1oAnM3UnkFSVuY+dUQopsajCpGzXFE="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-bg2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uobUWaXCY+jW6JAx1mxrq2kOO5QId2zmEzIHiUU0RGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uobUWaXCY+jW6JAx1mxrq2kOO5QId2zmEzIHiUU0RGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-bg2.uurhqmeiva.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-bg2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uobUWaXCY+jW6JAx1mxrq2kOO5QId2zmEzIHiUU0RGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uurhqmeiva"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-bg2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uobUWaXCY+jW6JAx1mxrq2kOO5QId2zmEzIHiUU0RGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img.nxof9bfe99.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ba/y60AjT5P3mptW8AaPsIU7vkWiOvdgt1s2I5JaQOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxof9bfe99"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ba/y60AjT5P3mptW8AaPsIU7vkWiOvdgt1s2I5JaQOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ba/y60AjT5P3mptW8AaPsIU7vkWiOvdgt1s2I5JaQOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ba/y60AjT5P3mptW8AaPsIU7vkWiOvdgt1s2I5JaQOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img1.2hmnqrpor8.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgcELg6cxs47LvO7WD+64Fu/xjq6TJZgbWEk/6C29eg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hmnqrpor8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-img1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgcELg6cxs47LvO7WD+64Fu/xjq6TJZgbWEk/6C29eg="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgcELg6cxs47LvO7WD+64Fu/xjq6TJZgbWEk/6C29eg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgcELg6cxs47LvO7WD+64Fu/xjq6TJZgbWEk/6C29eg="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img2.7tgmf1v429.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwGtEibsRvo17gjsQ1LceJgXGwHcBiaBJT1bDsLWESk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tgmf1v429"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-img2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwGtEibsRvo17gjsQ1LceJgXGwHcBiaBJT1bDsLWESk="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwGtEibsRvo17gjsQ1LceJgXGwHcBiaBJT1bDsLWESk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwGtEibsRvo17gjsQ1LceJgXGwHcBiaBJT1bDsLWESk="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img3.1islf5g6n2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaaaOLdGZmEg17xp8b31aVRiibhwh7s08c6A673G7rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1islf5g6n2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-img3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaaaOLdGZmEg17xp8b31aVRiibhwh7s08c6A673G7rE="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\slider-img3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaaaOLdGZmEg17xp8b31aVRiibhwh7s08c6A673G7rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaaaOLdGZmEg17xp8b31aVRiibhwh7s08c6A673G7rE="
+        }
+      ]
+    },
+    {
+      "Route": "images/user.2bjc1dpl0k.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qk7v9kGx0irTVfMsoNtk7QDhJhzpEF9w7iQ9TNBoF6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bjc1dpl0k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qk7v9kGx0irTVfMsoNtk7QDhJhzpEF9w7iQ9TNBoF6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/user.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\images\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qk7v9kGx0irTVfMsoNtk7QDhJhzpEF9w7iQ9TNBoF6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qk7v9kGx0irTVfMsoNtk7QDhJhzpEF9w7iQ9TNBoF6c="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uhEoQRq4wXODUim66QAmMzkqYtJRNsYSJnmPLVENdm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uhEoQRq4wXODUim66QAmMzkqYtJRNsYSJnmPLVENdm0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.m4yu6ktm9b.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uhEoQRq4wXODUim66QAmMzkqYtJRNsYSJnmPLVENdm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4yu6ktm9b"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uhEoQRq4wXODUim66QAmMzkqYtJRNsYSJnmPLVENdm0="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.e6jnv846pd.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuCwq6QvRTnPJa2qVfwUVqskdBbcXg5tLCoLh4x0qJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6jnv846pd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuCwq6QvRTnPJa2qVfwUVqskdBbcXg5tLCoLh4x0qJA="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuCwq6QvRTnPJa2qVfwUVqskdBbcXg5tLCoLh4x0qJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuCwq6QvRTnPJa2qVfwUVqskdBbcXg5tLCoLh4x0qJA="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.d6rpaas0a0.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6rpaas0a0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    },
+    {
+      "Route": "js/slick.min.8vxybdbzmv.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vxybdbzmv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/slick.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "js/slick.min.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\wwwroot\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 14:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    }
+  ]
+}

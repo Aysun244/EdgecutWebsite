@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|c:\\users\\user\\desktop\\edgecutwebsite\\edgecut\\edgecut\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF43F71-686A-42B4-9922-36B4494BA333}|EDgecut\\EDgecut.csproj|solutionrelative:edgecut\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EDgecut\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EDgecut\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:03:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EDgecut\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EDgecut\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:34:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "EDgecut\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "EDgecut\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:14:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EDgecut\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EDgecut\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:13:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "EDgecut\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "EDgecut\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:14:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EDgecut\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\EdgecutWebsite\\EDgecut\\EDgecut\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EDgecut\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:13:31.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
